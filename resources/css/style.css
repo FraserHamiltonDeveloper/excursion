@@ -1,5 +1,6 @@
 body {
   font-family: "Helvetica", sans-serif;
+  background-color: #9E9E9E;
 }
 
 h1,
@@ -10,3 +11,7 @@ h2 {
 h3 {
   color: seagreen;
 }
+
+/*video {
+    object-fit: contain;
+}*/
